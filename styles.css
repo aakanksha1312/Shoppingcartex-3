@@ -2,7 +2,7 @@ body {
     font-family: 'Arial', sans-serif; 
     margin: 20px; 
     text-align:justify;
-    background-color:bisque;
+    background-color:salmon;
 } 
  .products{ 
       display:grid;
@@ -14,11 +14,11 @@ body {
     height:30%;
     justify-content: space-between;
     align-items: center;
-    background-color:rgb(220,  144,  200);
+    background-color:rgb(77,  206,  147);
 }
 .products,  .cart  {
     float:  left;
-    width:  45%;
+    width:  55%;
     margin: 0  2.5%;
 }
 
