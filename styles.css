@@ -14,7 +14,7 @@ body {
     height: 20%;
     justify-content: normal;
     align-items: normal;
-    background-color: rgb(128, 0, 0);
+    background-color: rgb(102, 192, 199);
 }
 .products, .cart {
     float: inline-center;
@@ -23,7 +23,7 @@ body {
 }
 
 .product, .cart-item {
-    border: 5px solid #5c62d6;
+    border: 5px solid #2ec442;
     padding: 80px;
     margin-bottom: 80px;
 }
