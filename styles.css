@@ -14,7 +14,7 @@ body {
     height: 20%;
     justify-content: normal;
     align-items: normal;
-    background-color: rgb(188 ,143 ,143);
+    background-color:#bf2c34;
 }
 .products, .cart {
     float: inline-center;
@@ -29,7 +29,7 @@ body {
 }
 
 button {
-    background-color: #af1c83;
+    background-color: #d49137;
     color: #fff;
     border: none;
     padding: 5px 10px;
